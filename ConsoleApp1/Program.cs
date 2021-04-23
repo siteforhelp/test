@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //строка1 комита для мастер
+            //строка2 комита для Ветви1
         }
     }
 }
