@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //строка комита для мастер
+            //строка1 комита для мастер
         }
     }
 }
